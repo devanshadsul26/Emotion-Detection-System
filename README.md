@@ -1,2 +1,3 @@
 # Emotion-Detection-System
-Group 2
+Group 2,
+Members: Devansh Adsul and Surya Chava
